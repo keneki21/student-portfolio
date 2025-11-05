@@ -6,4 +6,4 @@ Structure:
 - styles/style.css (shared stylesheet)
 
 Team Lead: Muhammad Hashir Afzal
-Repository: <paste GitHub repo URL here>
+Repository: https://github.com/keneki21/student-portfolio.git

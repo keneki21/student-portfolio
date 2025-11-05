@@ -1,0 +1,21 @@
+/* base reset */
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Arial,Helvetica,sans-serif;line-height:1.6;padding:16px;background:#f7f7f7;color:#222}
+header{background:#222;color:#fff;padding:12px;border-radius:8px;margin-bottom:16px}
+header h1{font-size:1.5rem}
+nav{margin-top:8px}
+nav a{color:#fff;margin-right:12px;text-decoration:none}
+
+/* main content */
+main{background:#fff;padding:16px;border-radius:8px}
+footer{margin-top:16px;text-align:center;font-size:.9rem;color:#666}
+
+/* simple responsive layout */
+.profile-card img{width:120px;height:120px;border-radius:8px;display:block;margin-bottom:8px}
+.skills-list{list-style:disc;margin-left:20px}
+
+/* Media query (By Muhammad Hashir Afzal [0321] ) */
+@media (max-width:600px){
+  header h1{font-size:1.2rem}
+  .profile-card img{width:90px;height:90px}
+}
