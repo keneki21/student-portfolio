@@ -21,3 +21,6 @@ footer{margin-top:16px;text-align:center;font-size:.9rem;color:#666}
 }
 /* Media query (By Muhammad Ashir Jamil [0418] ) */
 @media (max-width: 600px) { body { font-size: 14px; } }
+/* Media query (By Umar farooq [0371] ) */
+@media (max-width: 600px)
+ { body { background-color: lightblue; } }
